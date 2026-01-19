@@ -15,7 +15,7 @@ int main()
         }
     }
 
-    cout << "Total even numbers = " << count;
+    cout << "Total all even number : " << count;
 
     return 0;
 }
